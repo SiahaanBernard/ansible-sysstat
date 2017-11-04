@@ -1,3 +1,0 @@
-- name: sysstat
-  src: https://github.com/traveloka/ansible-sysstat.git
-  version: master
